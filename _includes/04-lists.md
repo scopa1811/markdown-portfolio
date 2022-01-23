@@ -1,4 +1,4 @@
--Adelaide
--Perth
--Melbourne
--Sydney
+- Adelaide
+- Perth
+- Melbourne
+- Sydney
